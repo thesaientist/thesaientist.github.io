@@ -21,8 +21,6 @@ This brings me to my main point, which is the reason I started this blog. Despit
 
 Thanks for reading. Feel free to reach out to me via my [Twitter](https://twitter.com/Heisenblock) or via email at <therealsaientist@gmail.com>.
 
-
-
 ## Follow me on
 * [GitHub](https://github.com/uppatispr)
 * [LinkedIn](https://www.linkedin.com/in/saiuppati/)
