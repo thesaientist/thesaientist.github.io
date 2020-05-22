@@ -1,5 +1,5 @@
 # [The Sai-entist](https://uppatispr.github.io)
-The Sai-entist: Sai's personal blog to share ideas and solutions to improve society's daily experience in the digital age.
+The Sai-entist: Sai's personal blog to share ideas and solutions to improve society's daily experience in the digital age. Visit the blog at <https://uppatispr.github.io>.
 
 ## Setup for website
 This is the base setup for my blog, using GitHub pages for hosting the repository of the site's content and Jekyll static site generator for designing the interface. The theme I use is `minima`, which is the default theme used when creating a new Jekyll site and also the best minimalist theme for my needs that I've found among the supported themes. For a list of GitHub Pages supported themes, see [Supported Themes](https://pages.github.com/themes/).
