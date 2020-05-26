@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/images/profile_picture_head.jpg"
   bio              : "Engineer with coding skills and a passion for digital technology and artificial intelligence."
   location         : "Houston, TX"
-  email            : "therealsaientist@gmail.com"
+  # email            : "therealsaientist@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:therealsaientist@gmail.com"
+      # url: "mailto:therealsaientist@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/inprince"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/saiuppati"
 
 # Site Footer
 footer:
@@ -139,6 +142,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/inprince"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/saiuppati"
 
 
 # Reading Files
@@ -209,7 +215,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 # Plugins (previously gems:)
