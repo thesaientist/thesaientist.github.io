@@ -1,5 +1,23 @@
 ---
-layout: home
+layout: splash
+title: “Anyone who has never made a mistake has never tried anything new.”
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/mountain.jpg
+excerpt: "Albert Einstein"
 ---
-<p><em>“Anyone who has never made a mistake has never tried anything new.”</em></p>
-<p>- Albert Einstein</p>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
