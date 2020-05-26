@@ -1,10 +1,13 @@
 ---
-layout: single
+layout: splash
 title: About The Sai-entist
 permalink: /about/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/cyber_stock_image.jpg
+excerpt: "TL;DR: I'm a petroleum engineer with coding skills and a passion for digital technology and artificial intelligence, here to bring you bite-sized ideas and solutions to enhance your digital experience and productivity."
 ---
-
-**TL;DR:** I'm an engineer with coding skills and a passion for digital technology and artificial intelligence, here to bring you bite-sized ideas and solutions to enhance your digital experience and productivity.
 
 <!-- Profile Picture -->
 <p align="center">
